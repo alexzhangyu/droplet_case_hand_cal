@@ -1,0 +1,33 @@
+         Expression:  umeshl0
+            Address:  0x05120c00  [Sparse]
+               Type:  real(kind=8),pointer::(:,:,:)
+        Actual Type:  real(kind=8),pointer::(64,4,3)
+      Window Status:  
+              Slice:  (20:20,:,:)
+             Filter:  
+              Title:  umeshl0 - mpirun<phasta>.3 - 13.1
+           Language:  Fortran
+     Valid in Scope:  (Global)
+  Compiled in Scope:      asidgif  		(Subroutine)
+  asidgif.f  		(File)
+phastaC.exe  		(Image)
+          UPC Phase:  
+           UPC Addr:  
+      Examine Count:  0
+       Column Count:  0
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+Array IndexValue                  
+
+(20,1,1)   -3.579327762064138e-01 
+(20,2,1)   -4.314355674645897e-01 
+(20,3,1)   -4.319171011030272e-01 
+(20,4,1)   0.000000000000000e+00  
+(20,1,2)   -7.810602828755556e-01 
+(20,2,2)   -7.824007916636151e-01 
+(20,3,2)   -7.303064639112558e-01 
+(20,4,2)   0.000000000000000e+00  
+(20,1,3)   -5.088853674940497e-01 
+(20,2,3)   -4.456655431690151e-01 
+(20,3,3)   -5.263557439488823e-01 
+(20,4,3)   0.000000000000000e+00  
+
